@@ -1,0 +1,5 @@
+1)Node js is a open source cross  platform /or/ run time environment for javascript
+2)Syncronouse == executing only one thing at a time (blocking)
+3)ASyncronouse == Executing multiple thing at a time non (blocking)
+4)It is a server side application 
+
